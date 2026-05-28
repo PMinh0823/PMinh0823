@@ -16,5 +16,8 @@ I'm from Vietnam, currently a undergrad in The Ohio State University, interested
 - [Personal Project]([link](https://github.com/PMinh0823/Power-Generation-Forecasting-System.git))
 - [Mentorship Research]([link](https://github.com/PMinh0823/1-1-AI-Research-Mentorship.git))
 
-## Tech I've Touched
-Python, C++, C#, Pascal, Arduino, ESP32, HTML, CSS
+## Tech I am Using Most
+Python, C++, Arduino, ESP32
+
+## Tech I Previously Explored
+Pascal, C#, HTML, CSS
