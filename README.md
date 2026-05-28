@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Minh 👋
 
-<!--
-**PMinh0823/PMinh0823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm from Vietnam, currently a undergrad in The Ohio State University, interested in:
+- AI & Computer Science & Electrical Engineering
+- Embedded systems / IoT
+- Arduino & ESP32
+- Building practical tools
 
-Here are some ideas to get you started:
+## Current Focus
+- Learning ESP32 and embedded systems
+- Building small hardware/software projects
+- Exploring AI applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- [Competition Project]([link](https://github.com/PMinh0823/1-Idea-1-World-Gold-Medal-Project.git))
+- [Personal Project]([link](https://github.com/PMinh0823/Power-Generation-Forecasting-System.git))
+- [Mentorship Research]([link](https://github.com/PMinh0823/1-1-AI-Research-Mentorship.git))
+
+## Tech I've Touched
+Python, C++, C#, Pascal, Arduino, ESP32, HTML, CSS
