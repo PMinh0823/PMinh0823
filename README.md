@@ -1,6 +1,6 @@
 # Hi, I'm Minh 👋
 
-I'm from Vietnam, currently a undergrad in The Ohio State University, interested in:
+I'm from Vietnam, about to be an undergrad in The Ohio State University, interested in:
 - AI & Computer Science & Electrical Engineering
 - Embedded systems / IoT
 - Arduino & ESP32
